@@ -214,3 +214,5 @@ function speakError() {
     resultEl.innerText = "Error";
     speak("Sorry, I couldn't understand that calculation. Please try again.");
 }
+
+// Added basic operations
