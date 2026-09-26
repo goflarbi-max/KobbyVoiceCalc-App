@@ -218,3 +218,5 @@ function speakError() {
 // Added basic operations
 
 // Integrated Web Speech API
+
+// Division by zero handler
