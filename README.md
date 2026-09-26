@@ -40,4 +40,4 @@ I learned how to interact with the browser's native `SpeechRecognition` API, man
 [View Live on Vercel](https://kobbyvoicecalc-app.vercel.app/)
 
 ## GitHub Link
-https://github.com/goitahbi-max/KobbyVoiceCalc-App
+https://github.com/goflarbi-max/KobbyVoiceCalc-App
